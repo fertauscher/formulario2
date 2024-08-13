@@ -1,0 +1,25 @@
+form label{
+    display: block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+.copyright{
+    color: rgb(255, 255, 255);
+    background-color: rgba(43, 124, 43, 0.589);
+}
+.enviar{
+    width: 40%;
+    padding: 15px 0;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+.enviar:hover{
+    background: blue;
+    transform: scale(1.2);
+}
