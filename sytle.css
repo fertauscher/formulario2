@@ -1,32 +1,31 @@
 body{
     background-color: rgb(243, 242, 241);
-}
-
-main {
-    width: 940px;
-    margin: 0 auto;
-}
-form{
+    }
+    main{
+        width: 940px;
+        margin: 0 auto;
+    }
+    form{
     margin: 40px 0;
-}
-form label, form legend{
+    }
+    form label, form legend{
     display: block;
     font-size: 20px;
     margin: 0 0 10px;
-}
-.input-padrao{
+    }
+    .input-padrao{
     display: block;
     margin: 0 0 20px;
     padding: 10px 25px;
     width: 50%;
-}
-.checkbox{
+    }
+    .checkbox{
     margin: 20px 0;
-}
-.enviar{
+    }
+    .enviar{
     width: 40%;
     padding: 15px 0;
-    background: rgb(4, 80, 4);
+    background: rgb(0, 96, 141);
     color: white;
     font-weight: bold;
     font-size: 18px;
@@ -34,18 +33,18 @@ form label, form legend{
     border-radius: 5px;
     transition: 1s all;
     cursor: pointer;
-}
-.enviar:hover{
-    background: rgb(36, 245, 64);
+    }
+    .enviar:hover{
+    background: rgb(111, 187, 223);
     transform: scale(1.2);
-}
-.footer{
-    text-align: center;
-    padding: 40px;
-}
-.copyright{
-    color: white;
-    font-size: 13px;
-    background-color: rgba(43, 124, 43, 0.589);
-    margin: 20px 0 0;
+    }
+    footer{
+        text-align: center;
+        padding: 40px 0;
+    }
+    .copyright{
+        color: white;
+        font-size: 13px;
+        background-color: rgba(43, 124, 43, 0.589);
+        margin: 20px 0 0;
 }
