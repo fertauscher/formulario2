@@ -17,3 +17,8 @@ tr:nth-child(even) {
 tr:hover {
     background-color: #ccc;
 }
+h1{
+    font-family: "Sofadi One";
+    font-weight: 400;
+    font-style: normal;
+}
